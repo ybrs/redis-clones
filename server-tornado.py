@@ -3,7 +3,7 @@ import errno
 import functools
 import socket
 # this uses old version of ioloop because it works way faster then the new one...
-from tornado import ioloop, iostream
+from lib.tornado import ioloop, iostream
 import sys
 import gc
 import commands
