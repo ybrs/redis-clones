@@ -1,0 +1,5 @@
+Just run 
+$ sbt run
+
+Actually code is in 
+src/main/scala/com/twitter/finagle/example/echo/EchoExample.scala

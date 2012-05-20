@@ -1,0 +1,13 @@
+.cache
+target
+.target
+bin
+/mongodb/mongodb-osx-*
+/mongodb/mongodb-linux-*
+/mongodb/var/data
+/mongodb/var/log
+.classpath
+.project
+.scala_dependencies
+
+
